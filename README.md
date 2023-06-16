@@ -1,11 +1,11 @@
-About r-presenter
-=================
+About r-presenter-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-presenter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Harrison4192/presenter
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-presenter-feedstock/blob/main/LICENSE.txt)
 
 Summary: Consists of custom wrapper functions using packages 'openxlsx', 'flextable', and 'officer' to create highly formatted MS office friendly output of your data frames. These viewer friendly outputs are intended to match expectations of professional looking presentations in business and consulting scenarios. The functions are opinionated in the sense that they expect the input data frame to have certain properties in order to take advantage of the automated formatting.
 
